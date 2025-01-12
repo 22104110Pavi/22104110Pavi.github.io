@@ -1,4 +1,3 @@
-# 22104110Pavi.github.io
 # Hi, I'm [Pavithra P] 👋
 
 Welcome to my GitHub profile! 🚀
@@ -17,10 +16,8 @@ Welcome to my GitHub profile! 🚀
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
 
-## 📣 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 ## 💬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/pavithrap08)
 - [Twitter](https://twitter.com/your-twitter-profile)
