@@ -1,13 +1,13 @@
 # 22104110Pavi.github.io
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Pavithra P] 👋
 
 Welcome to my GitHub profile! 🚀
 
 ## 👨‍💻 About Me
-- I'm passionate about **[Your Interests]**.
-- Currently working on **[Your Current Projects]**.
-- Always looking to collaborate on **[Types of Projects]**.
-- Check out my **[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)**.
+- I'm passionate about **[IOT,Machine Learning and Frontend Development]**.
+- Currently working on **[Beyond Limits]**.
+- Always looking to collaborate on **[Innovative Projects]**.
+- Check out my **[LinkedIn](https://www.linkedin.com/in/pavithrap08/)**.
 
 ## 🔧 Technologies & Tools
 - Programming Languages: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
