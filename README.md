@@ -1,4 +1,4 @@
-# Hi, I'm [Pavithra P] 👋
+# Hi, I'm Pavithra P 👋
 
 Welcome to my GitHub profile! 🚀
 
